@@ -10,11 +10,11 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
 //        val pessoa = Person("Amanda")
-//        //println(pessoa.firstName)
-//
-//        val estudante = Student("Emerson")
-//        estudante.sobrenome = "Soares"
-//        //println("Nome completo: ${estudante.firstName} ${estudante.sobrenome}")
+//        println(pessoa.firstName)
+
+        val estudante = Student("Emerson")
+        estudante.sobrenome = "Soares"
+        //println("Nome completo: ${estudante.firstName} ${estudante.sobrenome}")
         main()
 
     }
