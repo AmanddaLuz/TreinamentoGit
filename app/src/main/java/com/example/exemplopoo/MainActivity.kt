@@ -9,8 +9,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val pessoa = Person("Amanda")
-        println(pessoa.firstName)
+//        val pessoa = Person("Amanda")
+//        println(pessoa.firstName)
 
         val estudante = Student("Emerson")
         estudante.sobrenome = "Soares"
