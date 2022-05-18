@@ -93,6 +93,9 @@ interface Somar{
     fun somarNumeros(num1: Int, num2: Int, num3: Int){
         println("A soma de $num1 + $num2 + $num3 = ${num1 + num2 + num3}")
     }
+//    fun somarNumeros(num1: Int){
+//        println("$num1 + $num1 = ${num1+num1}")
+//    }
 }
 
 
