@@ -9,7 +9,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-//comentario emerson 12
+//comentario emerson 1222
 
 //        val pessoa = Person("Amanda")
 //        println(pessoa.firstName)
