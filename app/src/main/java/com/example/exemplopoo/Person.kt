@@ -75,9 +75,9 @@ class Estudante: Pessoa, Somar{
 
     constructor(): super()
 
-    constructor(nome: String, sobrenome: String, idade: Int): super(nome, sobrenome, idade)
-
-    constructor(nome: String, sobrenome: String, idade: Int, qtdAulas: Int, qtdMaterias: Int): super(nome, sobrenome, idade)
+//    constructor(nome: String, sobrenome: String, idade: Int): super(nome, sobrenome, idade)
+//
+//    constructor(nome: String, sobrenome: String, idade: Int, qtdAulas: Int, qtdMaterias: Int): super(nome, sobrenome, idade)
 }
 
 interface Somar{
